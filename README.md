@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thegigacoder123
 - 👀 I’m interested in Python, desktop application development and cybersec!
-- 🌱 I’m currently learning C++, hacking and OSINT recon
+- 🌱 I’m currently learning C++, cybersec, Java and some web dev
 - 💞️ I’m looking to collaborate on Python projects related on all topics
 
 <!---
